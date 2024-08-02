@@ -1,0 +1,18 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS Finder files
+.DS_Store
+
+# Ignore Windows thumbnail cache
+Thumbs.db
